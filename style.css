@@ -48,11 +48,17 @@ ol {
     ol {
         border-right: none;
         width: 100px;
-        margin: 0;
+        margin: auto;
         padding: 20px;
     }
 
     h1 {
         border-bottom: none;
     }
+}
+
+#night_day {
+    font-size: 16px;
+    padding: 12px 28px;
+    margin:auto;
 }
